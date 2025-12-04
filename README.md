@@ -32,3 +32,4 @@ El sistema utiliza clases para manejar el inicio de sesion y el tipo de usuario.
 Proposito del proyecto
 
 Este proyecto fue desarrollado con la finalidad de practicar conceptos fundamentales en Java Swing, manejo de archivos de texto, programacion orientada a objetos y administracion de datos entre multiples formularios. Su estructura representa el funcionamiento basico de un sistema inmobiliario sencillo, permitiendo experimentar con formularios, roles de usuario y gestion de informacion sin necesidad de una base de datos compleja.
+(aclarar que el visual de agregar casas no esta terminado, solo se muestra en los paneles que administran)
